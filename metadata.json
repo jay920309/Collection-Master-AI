@@ -1,0 +1,7 @@
+{
+  "name": "收藏管家 (Collection Master AI)",
+  "description": "這是一款利用 AI 影像辨識技術的收藏品管理應用程式，協助使用者透過拍照快速比對是否已擁有該收藏，避免重複購買，並提供多類別管理與資料備份功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
